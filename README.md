@@ -1,5 +1,8 @@
 # MODIS NDVI & LST Long-Term Monitoring over Rubber Plantation Field (2000–2025)
 
+![image](https://github.com/user-attachments/assets/eb15e5fc-96f6-4ba9-80b1-33750bcb1a60)
+
+
 ## 📍 Background
 
 Rubber plantations are critical agroecosystems in Southeast Asia, and monitoring their long-term vegetation health and surface temperature trends is essential for understanding climate impacts and land surface processes.
