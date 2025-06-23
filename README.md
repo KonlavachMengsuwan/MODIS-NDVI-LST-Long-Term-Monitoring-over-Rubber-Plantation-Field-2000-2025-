@@ -50,12 +50,15 @@ To extract, visualize, and export long-term time series of:
 
 ### NDVI and LST Time Series
 
-* ![NDVI LST Chart](figures/ndvi_lst_chart.png)
+* ![image](https://github.com/user-attachments/assets/8da9d4a7-dee6-4e77-abdb-04990b4e4cf1)
+* ![image](https://github.com/user-attachments/assets/0a4a33d3-4a7d-4d93-a5a5-2b6d5d3cb8d9)
+
+![image](https://github.com/user-attachments/assets/739a29eb-4938-47ce-820c-84a4de0767b7)
 
 ### Animated GIFs
 
-* ![NDVI GIF](figures/ndvi_animation.gif)
-* ![LST GIF](figures/lst_animation.gif)
+* 
+* 
 
 ### Monthly/Yearly Trends (Printed to Console)
 
