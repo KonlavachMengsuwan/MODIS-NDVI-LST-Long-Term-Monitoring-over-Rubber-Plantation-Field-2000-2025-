@@ -117,4 +117,6 @@ To extract, visualize, and export long-term time series of:
 
 ---
 
+Code: https://code.earthengine.google.com/1e96ca4201a19979fe16912fa17bd850
+
 © 2025 Konlavach Mengsuwan · ZALF · Google Earth Engine
